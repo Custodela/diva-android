@@ -14,6 +14,7 @@ The idea originated, from a developer’s perspective. The Android security trai
 * Security professionals
 * Students
 
+
 ## What is included in Diva?
 
 I tried to put as much vulnerabilities as possible in a short period of time. I am sure I have missed out on some vulnerabilities. Please ping me if you know of a good vulnerability tat can be included in Diva. It covers common vulnerabilities in Android apps ranging from insecure storage, input validation to access control issues. I have also included few vulnerabilities in native code, which makes it more interesting from the perspective of covering both Java and C vulnerabilities.
