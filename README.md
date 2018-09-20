@@ -7,6 +7,7 @@ DIVA (Damn insecure and vulnerable App) is an App intentionally designed to be i
 No offense to anyone, but I was bored with the name DV* and decided to name it more fancy :)
 
 ## Who can use Diva?
+
 The idea originated, from a developer’s perspective. The Android security training for developers becomes slightly boring with lot of theory and not much hands-on. SO, I created DIVA for our Android developer training. Diva gamifies secure development learning. With that said, it is an excellent learning tool for aspiring Android penetration testers and security professionals as it gives an insight into app vulnerabilities including the source code. To sum it up:
 * Android App developers
 * Android Penetration testers
