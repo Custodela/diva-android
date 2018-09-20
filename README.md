@@ -20,6 +20,7 @@ I tried to put as much vulnerabilities as possible in a short period of time. I 
 
 **Current Challenges include:**
 
+
 1. Insecure Logging
 2. Hardcoding Issues – Part 1
 3. Insecure Data Storage – Part 1
